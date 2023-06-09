@@ -1,6 +1,8 @@
 [submodule "Article-Images"]
 	path = Article-Images
 	url = https://github.com/The-Design-Hammock/SEM-MONKS-Article-Images.git
+	branch = main
 [submodule "Article-Content"]
 	path = Article-Content
 	url = https://github.com/The-Design-Hammock/SEM-Monks-Article-Content.git
+	branch = main
